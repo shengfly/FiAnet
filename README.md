@@ -7,7 +7,7 @@ The code will come soon when paper is accepted.
 
 ## Pre-processing steps and tools
 
-## How to run the code 
+## How to use the code 
 
 ## Note
 
